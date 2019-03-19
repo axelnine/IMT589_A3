@@ -120,7 +120,8 @@ function callback(error, worldData, mobileData) {
                       } else{
 
                     
-                        content += '<p>$' + d.mobile[unit]['cost'] + ' (USD)</p>';
+                        content += '<p>Per Gigabyte Cost: $' + d.mobile[unit]['cost'] + ' (USD)</p>';
+                        content += '<p>Income percent Cost: ' + d.mobile[unit]['percent.income'] + '% (2GB/Month)</p>';
                       
 
                       }
