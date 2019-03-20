@@ -73,7 +73,11 @@ body {
   margin: 5px;
   padding: 0px 0px 0px 0px;
 }
-
+.country:hover {
+    stroke: yellow !important;
+    stroke-width: 2px !important;
+    transition-duration: 3s !important;
+}
 
 .svg-map {
   margin-top: 10px;
