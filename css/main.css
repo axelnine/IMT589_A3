@@ -55,6 +55,7 @@ body {
   background-image: -ms-linear-gradient(top, #e6e4dd, #ababab);
   background-image: -o-linear-gradient(top, #e6e4dd, #ababab);
   background-image: linear-gradient(to bottom, #e6e4dd, #ababab);
+  font-family: 'Open Sans', serif;
 }
 .button-select {
   background: #0e1131
