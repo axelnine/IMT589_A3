@@ -79,7 +79,7 @@ body {
 }
 
 .country:hover {
-    stroke: yellow !important;
+    stroke: black !important;
     stroke-width: 2px !important;
     transition-duration: 3s !important;
 }
