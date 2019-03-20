@@ -387,10 +387,10 @@ function callback(error, worldData, mobileData) {
   d3.selectAll(".buttons")[0][3].click();
   
   var delay=3000; //delay
-  setTimeout(function(){
-    d3.selectAll(".buttons")[0][1].click();
-    d3.selectAll(".buttons")[0][2].click();
-  }, delay);
+  //setTimeout(function(){
+  //  d3.selectAll(".buttons")[0][1].click();
+  //  d3.selectAll(".buttons")[0][2].click();
+  //}, delay);
 
 
 } 
