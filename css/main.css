@@ -80,8 +80,8 @@ body {
 
 .country:hover {
     stroke: black !important;
-    stroke-width: 2px !important;
-    transition-duration: 3s !important;
+    stroke-width: 3px !important;
+    transition-duration: 1s !important;
 }
 
 
